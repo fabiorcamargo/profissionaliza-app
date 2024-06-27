@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "496998705316",
+    "project_id": "profissionaliza-app-7wmniq",
+    "storage_bucket": "profissionaliza-app-7wmniq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496998705316:android:ee49eeb4633430627b5e31",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496998705316-i03cm4hqvj9k3i5q5h0vq7i05h5opvr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVTOLWvYf0WH6E0pstG7XShhs-P3LV60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496998705316-i03cm4hqvj9k3i5q5h0vq7i05h5opvr9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496998705316-7dpp1687pbbjjauadjvitbkf68b4u1s2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.profissionalizaead.myapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496998705316:android:60dc5919a20a06bc7b5e31",
+        "android_client_info": {
+          "package_name": "com.profissionalizaead.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496998705316-4cls28ockto65s9lp4us5r669a6l7oe8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.profissionalizaead.myapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "496998705316-i03cm4hqvj9k3i5q5h0vq7i05h5opvr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVTOLWvYf0WH6E0pstG7XShhs-P3LV60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496998705316-i03cm4hqvj9k3i5q5h0vq7i05h5opvr9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496998705316-7dpp1687pbbjjauadjvitbkf68b4u1s2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.profissionalizaead.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

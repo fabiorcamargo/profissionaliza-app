@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>496998705316-7dpp1687pbbjjauadjvitbkf68b4u1s2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.496998705316-7dpp1687pbbjjauadjvitbkf68b4u1s2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>496998705316-4cls28ockto65s9lp4us5r669a6l7oe8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTwPuULwt4W0HhMYHa6cvfWba5_d9qb2U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>496998705316</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.profissionalizaead.myapp</string>
+	<key>PROJECT_ID</key>
+	<string>profissionaliza-app-7wmniq</string>
+	<key>STORAGE_BUCKET</key>
+	<string>profissionaliza-app-7wmniq.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:496998705316:ios:c281cc50ee3277827b5e31</string>
+</dict>
+</plist>
